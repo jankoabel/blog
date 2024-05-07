@@ -15,12 +15,12 @@ Beautiful blog website made on .Net Core MVC and SQL Server.
 Clone the project
 
 ```bash
-  git clone https://github.com/saileshrijal/FineBlog
+  git clone https://github.com/jankoabel/blog
 
 Go to the project directory
 
 ```bash
-  cd FineBlog
+  cd blog
 ```
 
 Update database via Package Manager Console
